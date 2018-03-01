@@ -1,0 +1,15 @@
+
+  .button{
+      width:51px;
+
+       }
+  .display input{
+          position:relative;
+          left:2px;
+          top:2px;
+          height:35px;
+          color:black;
+          text-align:center;
+          font-size:21px;
+
+          }
